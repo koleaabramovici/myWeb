@@ -25,8 +25,6 @@ header {
   border-radius: 15px;
   width: 95%;
   overflow: hidden;
-  
-  
 }
 .button {
   border: none;
@@ -64,14 +62,13 @@ header a {
 
 header ul{
   margin: 0;
-  padding 0;
+  padding: 0;
 }
 
 header li{
   float: left;
   display: inline;
   padding: 0 20px 0 20px;
-
 }
 
 header #topweb {
@@ -88,8 +85,6 @@ header nav{
   float: right;
   margin-top: 20px;
 }
-
-
 
 header .color1, header .color2 a{
   color:yellowgreen;
@@ -111,8 +106,7 @@ header a:hover{
   text-align: center;
   position: relative;
   left: 40px;
-  
-  }
+}
 
 .container3{
   padding: 20px;
@@ -123,8 +117,6 @@ header a:hover{
   width: 100%;
   position: relative;
   left: 50px;
-  
-
 }
 
 .container4{
@@ -136,7 +128,6 @@ header a:hover{
   width: 65%;
   position: relative;
   left: 100px;
-  
 }
 
 #papa {
@@ -144,16 +135,15 @@ header a:hover{
   flex-direction: row;
   justify-content: space-between;
   min-width: auto;
-
 }
 
 footer{
- padding: 20px;
- margin-top: 40px;
- color:rgb(243, 236, 236);
- background-color: rgb(105, 102, 102); 
- text-align: center;
- opacity: 0.8;
+  padding: 20px;
+  margin-top: 40px;
+  color:rgb(243, 236, 236);
+  background-color: rgb(105, 102, 102); 
+  text-align: center;
+  opacity: 0.8;
 }
   
 
@@ -192,9 +182,6 @@ footer{
   position: relative;
   left: 40px;
   top: 110px;
-  position: 
-  
-  
 }
 
 
@@ -217,9 +204,7 @@ aside#sidebar {
   background-size: cover;
   position: relative;
   bottom: 465px;
-  right: 420px;
-  
-  
+  right: 420px;  
 }
 
 .name {
@@ -228,7 +213,6 @@ aside#sidebar {
 
 .col1 {
   color: rgb(47, 66, 117);
-  
 }
 
 .col2 {
@@ -243,8 +227,6 @@ aside#sidebar {
   left: 1030px;
   bottom: 454px;
   background-color: rgba(201, 206, 203, 0.774);
-  
-
 }
 
 .indent {
